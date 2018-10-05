@@ -1,8 +1,8 @@
 #include<stdio.h>
 int main()
 {
-float tsp,profit;
-scanf("%f%f",&tsp,&profit);
-printf(" the cost price is %f",tsp-profit);
+float tsp,p;
+scanf("%f%f",&tsp,&p);
+printf(" the cost is %f",tsp-p);
 return 0;
 }
